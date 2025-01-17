@@ -25,3 +25,9 @@ Results can be found in the docs folder, complete with detailed analysis.
 
 ## Acknowledgments
 Special thanks to my supervisor, colleagues who provided insights and expertise that greatly assisted the research, and my family and friends who supported me during my studies.
+
+## Additional Notes
+- There a total of 192 models being tested in this project, in which resulted into the python script being divided into a total of 9 scripts.
+- Due to the large size of the EDA file, visualization from EDA can only be seen in the final report in the docs/ folder.
+
+Feel free to reach out to me if you have any questions on this! 
